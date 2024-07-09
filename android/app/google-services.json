@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29575305010",
+    "project_id": "i-message-26fcb",
+    "storage_bucket": "i-message-26fcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29575305010:android:cba02458a2dea32547292b",
+        "android_client_info": {
+          "package_name": "com.example.i_message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVH2gFZ26m29yxbRlH2dP6RFFv0xtC4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
